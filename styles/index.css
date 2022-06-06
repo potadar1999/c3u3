@@ -1,0 +1,28 @@
+
+    #navbar{
+      display: flex;
+      justify-content: space-evenly;
+      border: 1px solid;
+      /* text-decoration: none; */
+      margin-bottom: 20px;
+      background-color: grey;
+      font-size: 16px;
+      color: white;
+
+    }
+    #form{
+      font-size: 20px;
+      color: brown;
+      text-align: center;
+      width: 300px;
+      margin: auto;
+      border: 1px solid ;
+      display: grid;
+     gap: 20px;
+     padding: 30px;
+
+    }
+    input{
+      padding: 5px;
+    }
+  
